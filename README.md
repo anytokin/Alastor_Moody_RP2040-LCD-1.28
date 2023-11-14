@@ -2,7 +2,7 @@
 This repository includes Alastor Moody eye for costume written for the rounded GC9A01 LCD (RP2040-LCD-1.28) MCU. It is a low-cost, high-performance board designed by [Waveshare][RP2040-LCD-1.28-Wiki].
 This project uses gyroscope module to mimic movement of an eye.
 
-![Eye on table ](Moodys_eye.jpg)
+<img src="Moodys_eye.gif" alt="Eye_gif" width="200"/> <img src="Moodys_eye.jpg" alt="Eye_gif" height ="355"/>
 
 
 3D printed Model<br> 
